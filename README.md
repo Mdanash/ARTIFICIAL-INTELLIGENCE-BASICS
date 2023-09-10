@@ -66,4 +66,3 @@ The `NoneType` represents the absence of a value or a null value.
 
 You can create your own data types using classes.
 
-This README provides a quick overview of Python data types. For more details and examples, please explore the repository's content. Happy coding!
